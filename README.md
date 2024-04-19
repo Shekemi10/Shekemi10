@@ -5,9 +5,7 @@ My name is Shekemi, and I'm a data analyst with expertise in Excel and SPSS. I'm
 
 - Excel: Advanced proficiency in data manipulation, analysis, and visualization.
 - SPSS: Experienced in statistical analysis, data cleaning, and reporting.
-- 🌱 I’m currently learning ...
-
- Advanced SQL queries for database management and Python programming for data analysis
+- 🌱 I’m currently learning  Advanced SQL queries for database management and Python programming for data analysis
 
 - 📫 How to reach me 
 
